@@ -1,1 +1,1 @@
-Eae, aqui teremos exercicios realiazados por mim em Java.
+Eae, aqui teremos exercicios realizados por mim em Java.
